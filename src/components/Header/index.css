@@ -1,0 +1,42 @@
+.header-bg {
+    background-color: #202020;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .website-logo {
+    width: 150px;
+  }
+  
+  .header-link {
+    font-family: 'Roboto';
+    text-decoration: none;
+    margin: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #f1f5f9;
+  }
+  
+  .header-list {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .header-btn {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 18px;
+    padding: 8px 35px 8px 35px;
+    color: white;
+    background-color: #6366f1;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
